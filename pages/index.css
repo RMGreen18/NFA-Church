@@ -1,2 +1,12 @@
 @import url("../vendor/normalize.css");
-@import url("../evndor.fonts.css");
+@import url("..vendor.fonts.css");
+@import url("../blocks/page.css");
+@import url("../blocks/header.css");
+@import url("../blocks/nav.css");
+@import url("../blocks/content.css");
+@import url("../blocks/beliefs.css");
+@import url("../blocks/leaders.css");
+@import url("../blocks/minstries.css");
+@import url("../blocks/calendar.css");
+@import url("../blocks/connect.css");
+@import url("../blocks/footer.css");
