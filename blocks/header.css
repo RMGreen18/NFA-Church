@@ -1,8 +1,14 @@
 .header {
+  position: fixed;
 }
 
 .header__banner {
+  background-color: green;
+  display: flex;
+  justify-content: center;
+  z-index: 1;
 }
 
 .header__banner-title {
+  z-index: 2;
 }
