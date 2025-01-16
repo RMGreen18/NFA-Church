@@ -1,0 +1,18 @@
+.missions {
+display: grid;
+}
+
+.missions__title {
+
+}
+
+.missions__description {
+
+}
+
+.missions__cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 2fr;
+  gap: 20px;
+}

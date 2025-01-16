@@ -1,5 +1,16 @@
 .page {
-  background-color: black;
+  background-color: #FFFFF0;
   display: flex;
   justify-content: center;
 }
+
+
+/*
+Hex color Palette
+Primary: Warm Beige (#F5E6CC)
+Accent 1: Olive Green (#556B2F)
+Accent 2: Soft Coral (#F08080)
+Background: Ivory (#FFFFF0)
+Highlight: Deep Terracotta (#CD5C5C)
+Mood: Hospitable, calming, and inviting.
+*/

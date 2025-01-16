@@ -3,12 +3,13 @@
 }
 
 .header__banner {
-  background-color: green;
+  background-color: #F5E6CC;
   display: flex;
   justify-content: center;
   z-index: 1;
 }
 
 .header__banner-title {
+  font-family: Inter, Arial, sans-serif;
   z-index: 2;
 }

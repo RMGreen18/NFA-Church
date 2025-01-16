@@ -1,15 +1,33 @@
 .card {
   list-style-type: none;
+  background-color: #B9A07C;
+  margin: 0;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.card__container {
+  margin: 0;
+  padding: 10px;
+
 }
 
 .card__title {
+
+}
+.card__subtitle {
+
 }
 
 .card__description {
+  margin: 0;
+
 }
 
 .card__link {
 }
 
 .card__image {
+  max-width: 300px;
+  max-height: 200px;
 }
