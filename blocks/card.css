@@ -1,27 +1,42 @@
 .card {
   list-style-type: none;
-  background-color: #B9A07C;
+  background-color: #b9a07c;
   margin: 0;
   padding: 20px;
   border-radius: 15px;
 }
 
+.card_leader {
+
+}
+
+.card_ministry {
+
+}
+
+.card_mission {
+
+}
+
 .card__container {
+  display: flex;
+  flex-direction: column;
   margin: 0;
   padding: 10px;
-
+  justify-content: space-between;
 }
 
 .card__title {
-
+  margin: 0;
+  padding: 20px 0;
 }
 .card__subtitle {
-
+  mar
 }
 
 .card__description {
   margin: 0;
-
+  padding: 10px;
 }
 
 .card__link {
@@ -31,3 +46,4 @@
   max-width: 300px;
   max-height: 200px;
 }
+

@@ -1,13 +1,13 @@
 .missions {
-display: grid;
+  display: grid;
 }
 
 .missions__title {
-
 }
 
 .missions__description {
-
+  margin: 0;
+  padding: 10px;
 }
 
 .missions__cards {
